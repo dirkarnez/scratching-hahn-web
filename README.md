@@ -1,5 +1,5 @@
-scratching-hahn
-===============
+scratching-hahn-web
+===================
 Based on [jefferey/scratchable-turntable: Scratchable vinyl turntable implemented in pure vanilla javascript with SVG graphics. · GitHub](https://github.com/jefferey/scratchable-turntable)
 
 ### TODO
